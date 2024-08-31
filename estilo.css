@@ -29,14 +29,6 @@
     font-size: 20px;
 }
 
-#ImgMontevideo
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin:230px
-
-}
 
 h3{
     color: rgb(224, 91, 42);
@@ -51,11 +43,6 @@ h3{
     
 }
 
-#ImgInstagram{
-    width: 1000px;
-    height: auto;
-
-}
 
 
 
